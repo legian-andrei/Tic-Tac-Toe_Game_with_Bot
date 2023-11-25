@@ -6,6 +6,9 @@ This repository contains a console-based implementation of the classic Tic-Tac-T
 A complete console-based version of the Tic-Tac-Toe game allowing player vs. player, and also player vs. bot matches.
 ### Bot with 3 Difficulty Levels: 
 Implementation of a bot with varying levels of difficulty:
+
 **Easy**: A bot that makes random moves.
+
 **Medium**: A bot that employs simple strategies to play.
+
 **Hard**: A bot that uses more advanced algorithms to provide a competitive challenge.
